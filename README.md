@@ -9,9 +9,11 @@
 * MATERIALIZE UI 
 * SEMANTIC UI
 
+---
+![Photos]("https://cdn.icon-icons.com/icons2/3103/PNG/128/gallery_icon_191518.png", "Google photos")
 
 ## My best website
-![Google.com]("./assets/img/google.png")
-![Facebook.com]("./assets/img/google.png")
-![Yahoo.fr]("./assets/img/google.png")
-![Gmail.com]("./assets/img/google.png")
+![Google.com]("https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png")
+![Facebook.com]("https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png")
+![Yahoo.fr]("https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png")
+![Gmail.com]("https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png")
