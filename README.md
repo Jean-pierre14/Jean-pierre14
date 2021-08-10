@@ -8,6 +8,11 @@
 * BOOTSTRAP UI
 * MATERIALIZE UI 
 * SEMANTIC UI
+* JAVASCRIPT
+    * jQuery
+    * ReactJs
+    * VueJs
+    * NodeJs
 
 ---
 ![Photos]("https://cdn.icon-icons.com/icons2/3103/PNG/128/gallery_icon_191518.png", "Google photos")
