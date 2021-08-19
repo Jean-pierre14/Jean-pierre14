@@ -27,6 +27,6 @@
 ![Facebook.com](https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png)
 ![Yahoo.fr](https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png)
 ![Gmail.com](https://cdn.icon-icons.com/icons2/1011/PNG/128/Google_Chrome_icon-icons.com_75711.png)
-```reactjs
-
+```javascript
+    import React from 'react'
 ```
