@@ -64,7 +64,7 @@
 <br />
 
 
-![Bisimwa Bisimwa's github stats](https://github-readme-stats.vercel.app/api?username=Jean-pierre14&show_icons=true&hide_border=true)
+![Bisimwa 's github stats](https://github-readme-stats.vercel.app/api?username=Jean-pierre14&show_icons=true&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-pierre14&layout=compact)
 
@@ -81,8 +81,8 @@
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+ -->
 
--->
 
 <!-- BLOG-POST-LIST:END -->
 
