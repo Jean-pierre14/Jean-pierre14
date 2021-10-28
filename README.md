@@ -1,9 +1,7 @@
-### Hi there, I'm BISIMWA Gr. [https://yfjlead0kpdvpctx2z0o7q-on.drv.tw/racine.com/www.racine/][website] 👋
+### Hi there, I'm BISIMWA Gr. [https://jean-pierre14.github.io/racine.com/][website] 👋
 
 <!--
 *Jean-pierre14/Jean-pierre14* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 
 [![Website](https://www.instagram.com/softworld.dev.community/)](https://www.instagram.com)
@@ -106,7 +104,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Bisimwa Bisimwa's github stats](https://github-readme-stats.vercel.app/api?username=Jean-pierre14&show_icons=true&hide_border=true)
+  ![Bisimwa El Grace's github stats](https://github-readme-stats.vercel.app/api?username=Jean-pierre14&show_icons=true&hide_border=true)
 
 </details>
 
