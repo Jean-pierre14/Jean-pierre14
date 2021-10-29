@@ -1,4 +1,4 @@
-### Hi there, I'm BISIMWA Gr. [https://jean-pierre14.github.io/racine.com/][website] 👋
+### Hi there, I'm BISIMWA Gr. [https://jean-pierre14.github.io/racine.com/][My portfolio] 👋
 
 <!--
 *Jean-pierre14/Jean-pierre14* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
