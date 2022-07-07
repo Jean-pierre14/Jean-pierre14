@@ -1,4 +1,4 @@
-### Hi there, I'm BISIMWA Gr. [https://jean-pierre14.github.io/racine.com/][My portfolio] 👋
+### Hi there, I'm BISIMWA Gr. [https://jean-pierre14.github.io/racine.com/] 👋
 
 ## I'm a son of Jehovah, Developer, and a Designer!!
 
