@@ -1,18 +1,39 @@
-# Hi, I'm BISIMWA Jean-Pierre14 [https://jean-pierre14.github.io/racine.com/] 👋
+# Hello, I'm BISIMWA Jean-Pierre14 👋
 
-## I'm web developer, and graphic designer!!
+I'm a web developer and graphic designer!
 
-### Reactjs, React Native, Flutter, Nodejs, MySql and MongoDB
+## Technologies I work with:
 
-# WINDOWS 10, 11
+- React.js
+- React Native
+- Flutter
+- Node.js
+- MySQL
+- MongoDB
 
-### Microsoft Excel, Word, PowerPoint and Access
+## Operating Systems:
 
-# Adobe collection
-I am a graphic designer
-### Adobe PhotoShop, Illustrator, After Effect and Premier Pro
+- Windows 10
+- Windows 11
 
-# Je parle aussi francais et je suis enseignant de langue.
+## Microsoft Office Suite:
 
-![Bisimwa 's github stats](https://github-readme-stats.vercel.app/api?username=Jean-pierre14&show_icons=true&hide_border=true)
+- Excel
+- Word
+- PowerPoint
+- Access
 
+## Adobe Creative Cloud Collection:
+
+As a graphic designer, I specialize in Adobe tools:
+
+- Photoshop
+- Illustrator
+- After Effects
+- Premiere Pro
+
+## Language Skills:
+
+Je parle aussi français et je suis enseignant de langue.
+
+![Bisimwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jean-pierre14&show_icons=true&hide_border=true)
